@@ -10,13 +10,6 @@
     <li><a href="#𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐂𝐈𝐄𝐒">𝙳𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚒𝚎𝚜 𝚏𝚘𝚛 𝚜𝚌𝚛𝚒𝚙𝚝𝚎𝚝</a></li>
     <li><a href="#𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒">𝙱𝚒𝚕𝚕𝚎𝚍𝚎𝚛 𝚊𝚏 𝚜𝚌𝚛𝚒𝚙𝚝𝚎𝚝</a></li>
     <li><a href="#𝐏𝐑𝐄𝐕𝐈𝐄𝐖">𝚅𝚒𝚍𝚎𝚘 𝚙𝚛𝚎𝚟𝚒𝚎𝚠 𝚊𝚏 𝚜𝚌𝚛𝚒𝚙𝚝𝚎𝚝</a></li>
-    <li>
-      <a href="#𝐒𝐎𝐂𝐈𝐀𝐋𝐒">𝐌𝐢𝐧𝐞 𝐦𝐞𝐝𝐢𝐞𝐫</a>
-      <ul>
-        <li><a href="https://discord.gg/ECUxET82SD">𝙳𝚒𝚜𝚌𝚘𝚛𝚍</a></li>
-        <li><a href="https://www.youtube.com/channel/UCxoJ3jF7onq1TRkOnAZAF8w">𝚈𝚘𝚞𝚝𝚞𝚋𝚎</a></li>
-      </ul>
-    </li>
   </ol>
 </details>
 
