@@ -19,7 +19,7 @@
 ### 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
 
 
-<a href="https://youtu.be/vLxqnIFHiFU"><img src="https://i.ytimg.com/vi/vLxqnIFHiFU/hqdefault.jpg" alt="Preview"></a>
+<a href="https://youtu.be/vLxqnIFHiFU"><img src="https://i.ytimg.com/vi/vLxqnIFHiFU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDDCvBoOigm6AoUgkhkVhl9krXsMw" alt="Preview"></a>
 
 ### 𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒
 <img src="https://imgur.com/fBWHBDH.png" alt="Config" width="480px" height="270px">
