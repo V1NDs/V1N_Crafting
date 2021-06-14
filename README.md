@@ -5,8 +5,8 @@
   <ol>
     <li><a href="#𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍">𝙸𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗𝚎𝚛 𝚘𝚖 𝚜𝚌𝚛𝚒𝚙𝚝𝚎𝚝</a></li>
     <li><a href="#𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐂𝐈𝐄𝐒">𝙳𝚎𝚙𝚎𝚗𝚍𝚎𝚗𝚌𝚒𝚎𝚜 𝚏𝚘𝚛 𝚜𝚌𝚛𝚒𝚙𝚝𝚎𝚝</a></li>
-    <li><a href="#𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒">𝙱𝚒𝚕𝚕𝚎𝚍𝚎𝚛 𝚊𝚏 𝚜𝚌𝚛𝚒𝚙𝚝𝚎𝚝</a></li>
     <li><a href="#𝐏𝐑𝐄𝐕𝐈𝐄𝐖">𝚅𝚒𝚍𝚎𝚘 𝚙𝚛𝚎𝚟𝚒𝚎𝚠 𝚊𝚏 𝚜𝚌𝚛𝚒𝚙𝚝𝚎𝚝</a></li>
+    <li><a href="#𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒">𝙱𝚒𝚕𝚕𝚎𝚍𝚎𝚛 𝚊𝚏 𝚜𝚌𝚛𝚒𝚙𝚝𝚎𝚝</a></li>
   </ol>
 </details>
 
@@ -17,8 +17,6 @@
 - [x] 𝚟𝚁𝙿 𝟶.𝟻.
 
 ### 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
-
-
 <a href="https://youtu.be/vLxqnIFHiFU"><img src="https://i.ytimg.com/vi/vLxqnIFHiFU/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDDCvBoOigm6AoUgkhkVhl9krXsMw" alt="Preview" width="480px" height="270px"></a>
 
 ### 𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒
