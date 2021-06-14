@@ -1,7 +1,7 @@
 # 𝐕𝟏𝐍_𝐂𝐑𝐀𝐅𝐓𝐈𝐍𝐆
 
 ### 𝐃𝐈𝐒𝐂𝐎𝐑𝐃
-> https://discord.gg/ECUxET82SD
+> [𝚑𝚝𝚝𝚙𝚜://𝚍𝚒𝚜𝚌𝚘𝚛𝚍.𝚐𝚐/𝙴𝙲𝚄𝚡𝙴𝚃𝟾𝟸𝚂𝙳](https://discord.gg/ECUxET82SD)
 
 <details open="open">
   <summary>𝐈𝐧𝐝𝐡𝐨𝐥𝐝𝐬𝐟𝐨𝐫𝐭𝐞𝐠𝐧𝐞𝐥𝐬𝐞</summary>
