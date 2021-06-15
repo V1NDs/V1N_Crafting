@@ -17,7 +17,7 @@
 - [x] 𝚟𝚁𝙿 𝟶.𝟻.
 
 ### 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
-<a href="https://youtu.be/3GGFSxFKB_w"><img src="https://i.ytimg.com/vi/3GGFSxFKB_w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDDCvBoOigm6AoUgkhkVhl9krXsMw" alt="Preview"></a>
+[![𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐯𝐢𝐝𝐞𝐨](https://i.ytimg.com/vi/3GGFSxFKB_w/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&amp;rs=AOn4CLDDCvBoOigm6AoUgkhkVhl9krXsMw)](https://youtu.be/3GGFSxFKB_w)
 
 ### 𝐒𝐂𝐑𝐄𝐄𝐍𝐒𝐇𝐎𝐓𝐒
 <img src="https://imgur.com/fBWHBDH.png" alt="Config" width="480px" height="270px">
