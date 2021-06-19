@@ -22,7 +22,7 @@ secure = {}
 
 --==Webhooks==--
 secure.webhooks = {
-    craft = "https://discordapp.com/api/webhooks/855851633408999425/689KB7DyQLNRqrQPjoYsnIRxvJgXFG4HimqcTBGFaZhSk1SaTpfAMOkXW7BRsFhcw70a"
+    craft = ""
 }
 --===================================--
 
