@@ -1,5 +1,7 @@
 # 𝐕𝟏𝐍_𝐂𝐫𝐚𝐟𝐭𝐢𝐧𝐠
 
+##[Discord link](https://discord.gg/ECUxET82SD)
+
 <details open="open">
   <summary>𝐈𝐧𝐝𝐡𝐨𝐥𝐝𝐬𝐟𝐨𝐫𝐭𝐞𝐠𝐧𝐞𝐥𝐬𝐞</summary>
   <ol>
