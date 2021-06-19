@@ -1,6 +1,6 @@
 # 𝐕𝟏𝐍_𝐂𝐫𝐚𝐟𝐭𝐢𝐧𝐠
 
-Discord server: [Discord link](https://discord.gg/ECUxET82SD)
+𝐃𝐢𝐬𝐜𝐨𝐫𝐝 𝐬𝐞𝐫𝐯𝐞𝐫: [𝚍𝚒𝚜𝚌𝚘𝚛𝚍.𝚐𝚐/𝙴𝙲𝚄𝚡𝙴𝚃𝟾𝟸𝚂𝙳](https://discord.gg/ECUxET82SD)
 
 <details open="open">
   <summary>𝐈𝐧𝐝𝐡𝐨𝐥𝐝𝐬𝐟𝐨𝐫𝐭𝐞𝐠𝐧𝐞𝐥𝐬𝐞</summary>
