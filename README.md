@@ -12,16 +12,16 @@
 </details>
 
 ### 𝐈𝐍𝐅𝐎𝐑𝐌𝐀𝐓𝐈𝐎𝐍
-> Scriptet er inspireret fra rust, hvilket er tydeligst at se ved at det er lavet med grid.
+> 𝚂𝚌𝚛𝚒𝚙𝚝𝚎𝚝 𝚎𝚛 𝚒𝚗𝚜𝚙𝚒𝚛𝚎𝚛𝚎𝚝 𝚏𝚛𝚊 𝚛𝚞𝚜𝚝, 𝚑𝚟𝚒𝚕𝚔𝚎𝚝 𝚎𝚛 𝚝𝚢𝚍𝚎𝚕𝚒𝚐𝚜𝚝 𝚊𝚝 𝚜𝚎 𝚟𝚎𝚍 𝚊𝚝 𝚍𝚎𝚝 𝚎𝚛 𝚕𝚊𝚟𝚎𝚝 𝚖𝚎𝚍 𝚐𝚛𝚒𝚍.
 
-> Hvis et item ikke kommer frem i ui'en er det fordi itemet ikke findes, dette sker for at sikre at folk ikke giver noget og ikke får noget retur. 
-  (Virker ikke hvis de skal modtage våben, så vises itemet stadig i ui'en).
+> 𝙷𝚟𝚒𝚜 𝚎𝚝 𝚒𝚝𝚎𝚖 𝚒𝚔𝚔𝚎 𝚔𝚘𝚖𝚖𝚎𝚛 𝚏𝚛𝚎𝚖 𝚒 𝚞𝚒'𝚎𝚗 𝚎𝚛 𝚍𝚎𝚝 𝚏𝚘𝚛𝚍𝚒 𝚒𝚝𝚎𝚖𝚎𝚝 𝚒𝚔𝚔𝚎 𝚏𝚒𝚗𝚍𝚎𝚜, 𝚍𝚎𝚝𝚝𝚎 𝚜𝚔𝚎𝚛 𝚏𝚘𝚛 𝚊𝚝 𝚜𝚒𝚔𝚛𝚎 𝚊𝚝 𝚏𝚘𝚕𝚔 𝚒𝚔𝚔𝚎 𝚐𝚒𝚟𝚎𝚛 𝚗𝚘𝚐𝚎𝚝 𝚘𝚐 𝚒𝚔𝚔𝚎 𝚏å𝚛 𝚗𝚘𝚐𝚎𝚝 𝚛𝚎𝚝𝚞𝚛. 
+  (𝚅𝚒𝚛𝚔𝚎𝚛 𝚒𝚔𝚔𝚎 𝚑𝚟𝚒𝚜 𝚍𝚎 𝚜𝚔𝚊𝚕 𝚖𝚘𝚍𝚝𝚊𝚐𝚎 𝚟å𝚋𝚎𝚗, 𝚜å 𝚟𝚒𝚜𝚎𝚜 𝚒𝚝𝚎𝚖𝚎𝚝 𝚜𝚝𝚊𝚍𝚒𝚐 𝚒 𝚞𝚒'𝚎𝚗).
 
-> Der kan kun være en marker indenfor 10.0 gta units, ellers vil den ene marker ikke loade ind.
+> 𝙳𝚎𝚛 𝚔𝚊𝚗 𝚔𝚞𝚗 𝚟æ𝚛𝚎 𝚎𝚗 𝚖𝚊𝚛𝚔𝚎𝚛 𝚒𝚗𝚍𝚎𝚗𝚏𝚘𝚛 𝟷𝟶.𝟶 𝚐𝚝𝚊 𝚞𝚗𝚒𝚝𝚜, 𝚎𝚕𝚕𝚎𝚛𝚜 𝚟𝚒𝚕 𝚍𝚎𝚗 𝚎𝚗𝚎 𝚖𝚊𝚛𝚔𝚎𝚛 𝚒𝚔𝚔𝚎 𝚕𝚘𝚊𝚍𝚎 𝚒𝚗𝚍.
 
-> Hvis du finder nogle problemer eller ideer, så skriv eller lav en ticket på discorden: https://discord.gg/ECUxET82SD.
+> 𝙷𝚟𝚒𝚜 𝚍𝚞 𝚏𝚒𝚗𝚍𝚎𝚛 𝚗𝚘𝚐𝚕𝚎 𝚙𝚛𝚘𝚋𝚕𝚎𝚖𝚎𝚛 𝚎𝚕𝚕𝚎𝚛 𝚒𝚍𝚎𝚎𝚛, 𝚜å 𝚜𝚔𝚛𝚒𝚟 𝚎𝚕𝚕𝚎𝚛 𝚕𝚊𝚟 𝚎𝚗 𝚝𝚒𝚌𝚔𝚎𝚝 𝚙å 𝚍𝚒𝚜𝚌𝚘𝚛𝚍𝚎𝚗: [𝚍𝚒𝚜𝚌𝚘𝚛𝚍.𝚐𝚐/𝙴𝙲𝚄𝚡𝙴𝚃𝟾𝟸𝚂𝙳](https://discord.gg/ECUxET82SD).
 
-> Brug hjernen og lad være med at tage credit eller sælge scriptet.
+> 𝙱𝚛𝚞𝚐 𝚑𝚓𝚎𝚛𝚗𝚎𝚗 𝚘𝚐 𝚕𝚊𝚍 𝚟æ𝚛𝚎 𝚖𝚎𝚍 𝚊𝚝 𝚝𝚊𝚐𝚎 𝚌𝚛𝚎𝚍𝚒𝚝 𝚎𝚕𝚕𝚎𝚛 𝚜æ𝚕𝚐𝚎 𝚜𝚌𝚛𝚒𝚙𝚝𝚎𝚝.
 
 ### 𝐃𝐄𝐏𝐄𝐍𝐃𝐄𝐍𝐂𝐈𝐄𝐒
 - [x] 𝚟𝚁𝙿 𝟶.𝟻.
