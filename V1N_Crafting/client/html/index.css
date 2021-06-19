@@ -1,0 +1,295 @@
+/*
+────────────────────────────────────────────────────────────────────────────────
+─██████──██████─████████───██████──────────██████─████████████───██████████████─
+─██░░██──██░░██─██░░░░██───██░░██████████──██░░██─██░░░░░░░░████─██░░░░░░░░░░██─
+─██░░██──██░░██─████░░██───██░░░░░░░░░░██──██░░██─██░░████░░░░██─██░░██████████─
+─██░░██──██░░██───██░░██───██░░██████░░██──██░░██─██░░██──██░░██─██░░██─────────
+─██░░██──██░░██───██░░██───██░░██──██░░██──██░░██─██░░██──██░░██─██░░██████████─
+─██░░██──██░░██───██░░██───██░░██──██░░██──██░░██─██░░██──██░░██─██░░░░░░░░░░██─
+─██░░██──██░░██───██░░██───██░░██──██░░██──██░░██─██░░██──██░░██─██████████░░██─
+─██░░░░██░░░░██───██░░██───██░░██──██░░██████░░██─██░░██──██░░██─────────██░░██─
+─████░░░░░░████─████░░████─██░░██──██░░░░░░░░░░██─██░░████░░░░██─██████████░░██─
+───████░░████───██░░░░░░██─██░░██──██████████░░██─██░░░░░░░░████─██░░░░░░░░░░██─
+─────██████─────██████████─██████──────────██████─████████████───██████████████─
+────────────────────────────────────────────────────────────────────────────────
+Discord: V1NDs#0977
+Youtube: https://www.youtube.com/channel/UCxoJ3jF7onq1TRkOnAZAF8w
+Github: https://github.com/V1NDs
+Discord server: https://discord.gg/ECUxET82SD
+*/
+
+/*Variables start*/
+:root {
+    /*
+    Blåt tema
+    --primary-color: 52, 152, 219;
+    --secondary-color: 41, 128, 185;
+    --tertiary-color: 189, 195, 199;
+    --quaternary-color: 245, 245, 245;
+    */
+
+    /*Gråt tema*/
+    --primary-color: 52, 73, 94;
+    --secondary-color: 44, 62, 80;
+    --tertiary-color: 189, 195, 199;
+    --quaternary-color: 245, 245, 245;
+}
+/*Variables end*/
+
+/*Global styling start*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    user-select: none;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
+/*Global styling end*/
+
+/*Container styling start*/
+.container {
+    position: absolute;
+    width: 90%;
+    height: 80%;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+    gap: 3px;
+    grid-template-areas:
+        "craftables craftables craftables item item item"
+        "craftables craftables craftables item item item"
+        "craftables craftables craftables item item item"
+        "craftables craftables craftables item item item"
+        "craftables craftables craftables item item item"
+        "craftables craftables craftables options options options"
+        "craftables craftables craftables options options options"
+        "craftables craftables craftables options options options"
+        "search search search options options options"
+    ;
+
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.5);
+}
+/*Container styling end*/
+
+/*Craftables styling start*/
+.craftables-list {
+    padding: 2.5%;
+
+    overflow-y: scroll;
+
+    grid-area: craftables;
+    background-color: rgba(var(--tertiary-color), 0.9);
+}
+
+.craftables-list > h3 {
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 1%;
+
+    font-size: 2.5em;
+    color: rgba(var(--quaternary-color), 0.9);
+}
+
+.item {
+    position: relative;
+    width: 100%;
+    height: 10%;
+    text-align: center;
+    padding: 3%;
+    margin-bottom: 1%;
+
+    overflow: hidden;
+
+    background-color: rgba(var(--primary-color), 0.9);
+    box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.9);
+}
+
+.item:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+
+    background-color: rgba(var(--secondary-color), 0.9);
+}
+
+.item:last-child {
+    margin-bottom: 0;
+}
+
+.item h3 {
+    font-size: 1.5em;
+
+    color: rgba(var(--quaternary-color), 0.9);
+}
+/*Craftables styling end*/
+
+/*Craftables search start*/
+.craftables-search {
+    padding: 1.5%;
+
+    grid-area: search;
+    background-color: rgba(var(--tertiary-color), 0.9);
+}
+
+.craftables-search > input {
+    padding: 12px 20px 12px 40px;
+    width: 100%;
+    height: 100%;
+
+    text-align: center;
+
+    font-size: 1.25em;
+    color: rgba(var(--quaternary-color), 0.9);
+    border: 1px solid rgba(var(--tertiary-color), 0.9);
+    outline: none;
+
+    background-color: rgba(var(--primary-color), 0.9);
+}
+/*Craftables search end*/
+
+/*Item styling start*/
+.item-info {
+    padding: 2.5%;
+
+    overflow: hidden;
+
+    grid-area: item;
+    background-color: rgba(var(--tertiary-color), 0.9);
+}
+
+.title {
+    text-align: center;
+    padding-bottom: 1%;
+    padding-top: 1%;
+
+    font-size: 2em;
+    color: rgba(var(--quaternary-color), 0.9);
+}
+
+.description {
+    text-align: center;
+    padding-bottom: 1%;
+
+    font-size: 1.25em;
+    color: rgba(var(--primary-color), 0.9);
+}
+
+.craftingInformations {
+    text-align: center;
+    width: 100%;
+    padding-bottom: 1%;
+
+    border-bottom: 2px solid rgba(var(--primary-color), 0.9);
+}
+
+.craftingInformations > p {
+    font-size: 1.5em;
+
+    color: rgba(var(--quaternary-color), 0.85);
+}
+/*Item styling end*/
+
+/*Item options styling start*/
+.item-options {
+    padding: 2.5%;
+
+    overflow-y: scroll;
+
+    grid-area: options;
+    background-color: rgba(var(--tertiary-color), 0.9);
+}
+
+.item-options > h3 {
+    text-align: center;
+    padding-bottom: 2%;
+    padding-top: 1%;
+
+    font-size: 1.75em;
+    color: rgba(var(--quaternary-color), 0.9);
+}
+
+.item-options table {
+    table-layout: fixed;
+    border-collapse: collapse;
+
+    width: 100%;
+}
+
+.item-options th, td {
+    text-align: center;
+    padding: 0.5%;
+
+    color: rgba(var(--primary-color), 0.95);
+    border-bottom: 1px solid rgba(var(--primary-color), 0.9);
+}
+
+.item-options th {
+    color: rgba(var(--quaternary-color), 0.95);
+    background-color: rgba(var(--primary-color), 0.9);
+}
+
+.item-options > .amountChooser {
+    margin-top: 2.5%;
+    width: 100%;
+}
+
+.slider {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 100%;
+    height: 6%;
+    background: rgba(var(--primary-color), 0.9);
+    outline: none;
+    opacity: 0.9;
+    -webkit-transition: .2s;
+    transition: opacity .2s;
+}
+
+.slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 2.5%;
+    height: 100%;
+    background: rgba(var(--secondary-color), 0.9);
+    cursor: pointer;
+}
+
+.amountChooser p {
+    text-align: center;
+
+    font-size: 1.5em;
+    color: rgba(var(--quaternary-color), 0.9);
+}
+
+.craft {
+    margin-top: 1%;
+    padding: 2% 0;
+    
+    width: 100%;
+    height: 15%;
+
+    text-align: center;
+    font-weight: bold;
+    color: rgba(var(--quaternary-color), 0.8);
+
+    background-color: rgba(var(--primary-color), 0.9);
+}
+
+.craft:hover {
+    transform: scale(1.01);
+    cursor: pointer;
+
+    color: rgba(var(--quaternary-color), 0.85);
+    background-color: rgba(var(--secondary-color), 0.9);
+}
+/*Item options styling end*/
