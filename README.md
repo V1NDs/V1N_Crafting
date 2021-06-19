@@ -28,7 +28,7 @@
 - [x] progressBars.
 
 ### 𝐏𝐑𝐄𝐕𝐈𝐄𝐖
-[![𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐯𝐢𝐝𝐞𝐨](https://i.ytimg.com/vi/3GGFSxFKB_w/hqdefault.jpg)](https://youtu.be/3GGFSxFKB_w)
+[![𝐏𝐫𝐞𝐯𝐢𝐞𝐰 𝐯𝐢𝐝𝐞𝐨](https://i.ytimg.com/vi/S2CczprC2Hw/hqdefault.jpg)](https://youtu.be/S2CczprC2Hw)
 
 ### 𝐌𝐄𝐃𝐈𝐄𝐑
 [<img src="https://cdn.vox-cdn.com/thumbor/VlgzMj5_REvgw7vItUeOy0KSYnY=/0x172:2400x1429/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11946613/discord_logo_wordmark_2400.jpg" width="243px" height="127.575px">](https://discord.gg/ECUxET82SD) [<img src="https://1000logos.net/wp-content/uploads/2017/05/Old-YouTube-logo.jpg" width="243px" height="127.575px">](https://www.youtube.com/channel/UCxoJ3jF7onq1TRkOnAZAF8w)
