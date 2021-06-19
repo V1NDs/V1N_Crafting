@@ -22,7 +22,6 @@ Discord server: https://discord.gg/ECUxET82SD
 local menuStatus = false
 local crafting = false
 local delay = 500
-local inRange = false
 --===================================--
 
 --==Functions==--
